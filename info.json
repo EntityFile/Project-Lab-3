@@ -1,0 +1,3236 @@
+{
+  "users": [
+    {
+      "id": 32165103,
+      "id_str": "32165103",
+      "name": "ESL Shop",
+      "screen_name": "ESLShop",
+      "location": "Cologne",
+      "description": "ESL Shop - your one-stop shop for esports merchandise cravings. Shipping from Germany, Poland, US & China.",
+      "url": "http://t.co/6UZ8naMYo1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/6UZ8naMYo1",
+              "expanded_url": "http://shop.eslgaming.com",
+              "display_url": "shop.eslgaming.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 91266,
+      "friends_count": 94,
+      "listed_count": 32,
+      "created_at": "Thu Apr 16 21:42:05 +0000 2009",
+      "favourites_count": 101,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 434,
+      "lang": "en",
+      "status": {
+        "created_at": "Mon Feb 18 12:14:08 +0000 2019",
+        "id": 1097469312007311360,
+        "id_str": "1097469312007311360",
+        "text": "@The42Seros @DreamHackDE Hey, please let me know your order number and i can check what we can do about this.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "The42Seros",
+              "name": "Erik M\u00fcller",
+              "id": 3199619354,
+              "id_str": "3199619354",
+              "indices": [
+                0,
+                11
+              ]
+            },
+            {
+              "screen_name": "DreamHackDE",
+              "name": "DreamHack Leipzig",
+              "id": 3011754173,
+              "id_str": "3011754173",
+              "indices": [
+                12,
+                24
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": 1097064472034897920,
+        "in_reply_to_status_id_str": "1097064472034897920",
+        "in_reply_to_user_id": 3199619354,
+        "in_reply_to_user_id_str": "3199619354",
+        "in_reply_to_screen_name": "The42Seros",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "18171B",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1096048788479922178/wIyDrElS_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096048788479922178/wIyDrElS_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/32165103/1550153385",
+      "profile_link_color": "0160A4",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "18171B",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 1035497458888003584,
+      "id_str": "1035497458888003584",
+      "name": "Enter Records",
+      "screen_name": "enterrecords",
+      "location": "",
+      "description": "Record label dedicated to soundtrack your gaming experience. A label by @ESL / @UMG",
+      "url": "https://t.co/XIMI80qaJQ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/XIMI80qaJQ",
+              "expanded_url": "http://www.enterrecords.com",
+              "display_url": "enterrecords.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 12402,
+      "friends_count": 78,
+      "listed_count": 0,
+      "created_at": "Fri Aug 31 12:00:07 +0000 2018",
+      "favourites_count": 37,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 37,
+      "lang": "en",
+      "status": {
+        "created_at": "Sat Feb 16 20:03:05 +0000 2019",
+        "id": 1096862550791254016,
+        "id_str": "1096862550791254016",
+        "text": "Aaaand @itsKVMO with \u201dControl\u201d \ud83d\udd25\n\nhttps://t.co/YIzsrVsrrk\n\nCu tmrw @IEM \ud83d\ude0e",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "itsKVMO",
+              "name": "KVMO",
+              "id": 794884449771155456,
+              "id_str": "794884449771155456",
+              "indices": [
+                7,
+                15
+              ]
+            },
+            {
+              "screen_name": "IEM",
+              "name": "Intel\u00aeExtremeMasters",
+              "id": 93659369,
+              "id_str": "93659369",
+              "indices": [
+                67,
+                71
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/YIzsrVsrrk",
+              "expanded_url": "https://enter.lnk.to/Control",
+              "display_url": "enter.lnk.to/Control",
+              "indices": [
+                34,
+                57
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1088846077342691328/x91lR9lL_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088846077342691328/x91lR9lL_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1035497458888003584/1548436634",
+      "profile_link_color": "00004D",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 3380542258,
+      "id_str": "3380542258",
+      "name": "betway esports",
+      "screen_name": "betwayesports",
+      "location": "18+",
+      "description": "Welcome to the home of esports betting! Proud sponsors of @NiPGaming, @mibr, @BIGCLANgg, @ESL One, Pro League, @IEM and the @FACEIT Major.",
+      "url": "https://t.co/jpRcWTa9G6",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/jpRcWTa9G6",
+              "expanded_url": "http://www.betway.com",
+              "display_url": "betway.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 117526,
+      "friends_count": 612,
+      "listed_count": 84,
+      "created_at": "Fri Jul 17 15:47:10 +0000 2015",
+      "favourites_count": 5267,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 16948,
+      "lang": "en",
+      "status": {
+        "created_at": "Mon Feb 18 17:06:43 +0000 2019",
+        "id": 1097542943714537472,
+        "id_str": "1097542943714537472",
+        "text": "Special events call for special bets!\n\n\ud83c\udde9\ud83c\uddea @BIGCLANgg To Qualify (Yes) - 1.70\n\ud83c\udde7\ud83c\uddf7 @coldzera Highest HLTV Rating in\u2026 https://t.co/y2ZOwBHWPz",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "BIGCLANgg",
+              "name": "BIG",
+              "id": 815180156478324736,
+              "id_str": "815180156478324736",
+              "indices": [
+                42,
+                52
+              ]
+            },
+            {
+              "screen_name": "coldzera",
+              "name": "coldzera",
+              "id": 3382415499,
+              "id_str": "3382415499",
+              "indices": [
+                80,
+                89
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/y2ZOwBHWPz",
+              "expanded_url": "https://twitter.com/i/web/status/1097542943714537472",
+              "display_url": "twitter.com/i/web/status/1\u2026",
+              "indices": [
+                114,
+                137
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 24,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1065214296483917825/V7GX-GWC_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1065214296483917825/V7GX-GWC_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3380542258/1548167252",
+      "profile_link_color": "833594",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 907848664487514112,
+      "id_str": "907848664487514112",
+      "name": "H4X",
+      "screen_name": "H4Xgg",
+      "location": "H4X L4B",
+      "description": "Empowering gamers & esports enthusiasts through style and innovation. Official Apparel Partners of: @ESL @dreamhack @complexity @IEM",
+      "url": "https://t.co/A8EfRDK24g",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/A8EfRDK24g",
+              "expanded_url": "http://www.H4X.gg",
+              "display_url": "H4X.gg",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 51319,
+      "friends_count": 206,
+      "listed_count": 5,
+      "created_at": "Wed Sep 13 06:09:23 +0000 2017",
+      "favourites_count": 1116,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 371,
+      "lang": "en",
+      "status": {
+        "created_at": "Mon Feb 18 02:47:54 +0000 2019",
+        "id": 1097326813192339456,
+        "id_str": "1097326813192339456",
+        "text": "Take your gameplay style to the next level with #H4XGG \ud83d\udc4a https://t.co/22wV4UbpmN",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "H4XGG",
+              "indices": [
+                48,
+                54
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1097326752400113666,
+              "id_str": "1097326752400113666",
+              "indices": [
+                57,
+                80
+              ],
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1097326752400113666/pu/img/6kWc-lWQie2TT9JP.jpg",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1097326752400113666/pu/img/6kWc-lWQie2TT9JP.jpg",
+              "url": "https://t.co/22wV4UbpmN",
+              "display_url": "pic.twitter.com/22wV4UbpmN",
+              "expanded_url": "https://twitter.com/H4Xgg/status/1097326813192339456/video/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 383,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 720,
+                  "h": 1280,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 675,
+                  "h": 1200,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1097326752400113666,
+              "id_str": "1097326752400113666",
+              "indices": [
+                57,
+                80
+              ],
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1097326752400113666/pu/img/6kWc-lWQie2TT9JP.jpg",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1097326752400113666/pu/img/6kWc-lWQie2TT9JP.jpg",
+              "url": "https://t.co/22wV4UbpmN",
+              "display_url": "pic.twitter.com/22wV4UbpmN",
+              "expanded_url": "https://twitter.com/H4Xgg/status/1097326813192339456/video/1",
+              "type": "video",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 383,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 720,
+                  "h": 1280,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 675,
+                  "h": 1200,
+                  "resize": "fit"
+                }
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  9,
+                  16
+                ],
+                "duration_millis": 4600,
+                "variants": [
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/1097326752400113666/pu/pl/YGaHAmCwC_-o8Iqn.m3u8?tag=6"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1097326752400113666/pu/vid/360x640/AEwNLQr7jilD98Av.mp4?tag=6"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1097326752400113666/pu/vid/720x1280/b47LmDot75Vqlc6Q.mp4?tag=6"
+                  },
+                  {
+                    "bitrate": 632000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1097326752400113666/pu/vid/320x568/VqfxnDpWbtbDta7J.mp4?tag=6"
+                  }
+                ]
+              },
+              "additional_media_info": {
+                "monetizable": false
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 12,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1042589887961210880/_YDkgTzo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1042589887961210880/_YDkgTzo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/907848664487514112/1541772953",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 19644368,
+      "id_str": "19644368",
+      "name": "paysafecard",
+      "screen_name": "paysafecard",
+      "location": "In 45 countries worldwide",
+      "description": "#Unlock & purchase your favorite #videogames online without bank account or credit card \ud83c\udfae | FB & IG: @paysafecard | Support (24/7):  info@paysafecard.com",
+      "url": "https://t.co/p2wmO6sBZv",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/p2wmO6sBZv",
+              "expanded_url": "http://psc.to/dataprotection",
+              "display_url": "psc.to/dataprotection",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 199133,
+      "friends_count": 490,
+      "listed_count": 100,
+      "created_at": "Wed Jan 28 10:08:14 +0000 2009",
+      "favourites_count": 3849,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5591,
+      "lang": "en",
+      "status": {
+        "created_at": "Mon Feb 18 17:19:41 +0000 2019",
+        "id": 1097546203770875905,
+        "id_str": "1097546203770875905",
+        "text": "@Alias62219 @psc_cares @Alias62219 Hey Alias, please contact our French customer care team at info@paysafecard.com\u2026 https://t.co/lneoo1uuFZ",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Alias62219",
+              "name": "Alias62",
+              "id": 1079678211179589635,
+              "id_str": "1079678211179589635",
+              "indices": [
+                0,
+                11
+              ]
+            },
+            {
+              "screen_name": "psc_cares",
+              "name": "paysafecard cares",
+              "id": 3533313381,
+              "id_str": "3533313381",
+              "indices": [
+                12,
+                22
+              ]
+            },
+            {
+              "screen_name": "Alias62219",
+              "name": "Alias62",
+              "id": 1079678211179589635,
+              "id_str": "1079678211179589635",
+              "indices": [
+                23,
+                34
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/lneoo1uuFZ",
+              "expanded_url": "https://twitter.com/i/web/status/1097546203770875905",
+              "display_url": "twitter.com/i/web/status/1\u2026",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1097542423339847681,
+        "in_reply_to_status_id_str": "1097542423339847681",
+        "in_reply_to_user_id": 1079678211179589635,
+        "in_reply_to_user_id_str": "1079678211179589635",
+        "in_reply_to_screen_name": "Alias62219",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1088781305255477249/TsdNau5E_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088781305255477249/TsdNau5E_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/19644368/1548862298",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 847021069089357825,
+      "id_str": "847021069089357825",
+      "name": "Predator Gaming",
+      "screen_name": "PredatorGaming",
+      "location": "",
+      "description": "Go forth and conquer. Gaming news, contests, and event updates. #SummonYourStrength",
+      "url": "https://t.co/Qq1WLSV9zW",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Qq1WLSV9zW",
+              "expanded_url": "http://acer.com/predator",
+              "display_url": "acer.com/predator",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 58745,
+      "friends_count": 349,
+      "listed_count": 47,
+      "created_at": "Wed Mar 29 09:42:14 +0000 2017",
+      "favourites_count": 1378,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 1717,
+      "lang": "en",
+      "status": {
+        "created_at": "Mon Feb 18 03:25:51 +0000 2019",
+        "id": 1097336364809576455,
+        "id_str": "1097336364809576455",
+        "text": "@nithin451 We are also hyped for it!",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "nithin451",
+              "name": "Nithin Saju",
+              "id": 871350637635620864,
+              "id_str": "871350637635620864",
+              "indices": [
+                0,
+                10
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+        "in_reply_to_status_id": 1094983283941748736,
+        "in_reply_to_status_id_str": "1094983283941748736",
+        "in_reply_to_user_id": 871350637635620864,
+        "in_reply_to_user_id_str": "871350637635620864",
+        "in_reply_to_screen_name": "nithin451",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/913898124980011008/MWtb2SxS_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/913898124980011008/MWtb2SxS_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/847021069089357825/1548999326",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 540668378,
+      "id_str": "540668378",
+      "name": "NEEDforSEAT\u00ae International",
+      "screen_name": "NEEDforSEAT",
+      "location": "Vellmar, Germany & Columbus (OH), USA",
+      "description": "MAXNOMIC\u00aeby NEEDforSEAT\u00ae - Better seats for office & eSports. #MAXNOMIC\n\nOfficial Twitter account for the EU, USA & Canada.",
+      "url": "https://t.co/IUV2PPCKZi",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/IUV2PPCKZi",
+              "expanded_url": "http://www.NEEDforSEAT.com",
+              "display_url": "NEEDforSEAT.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 265844,
+      "friends_count": 784,
+      "listed_count": 100,
+      "created_at": "Fri Mar 30 09:17:41 +0000 2012",
+      "favourites_count": 6183,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 6227,
+      "lang": "en",
+      "status": {
+        "created_at": "Sun Feb 17 20:41:57 +0000 2019",
+        "id": 1097234721682214912,
+        "id_str": "1097234721682214912",
+        "text": "Being part of @DreamHackDE was #amazing \ud83d\ude0d!  Thank you to all of you for visiting us. #DHDE19 \ud83e\udde1 https://t.co/sPfy1a1NJW",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "amazing",
+              "indices": [
+                31,
+                39
+              ]
+            },
+            {
+              "text": "DHDE19",
+              "indices": [
+                85,
+                92
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "DreamHackDE",
+              "name": "DreamHack Leipzig",
+              "id": 3011754173,
+              "id_str": "3011754173",
+              "indices": [
+                14,
+                26
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 1097234714585370624,
+              "id_str": "1097234714585370624",
+              "indices": [
+                95,
+                118
+              ],
+              "media_url": "http://pbs.twimg.com/media/DzopKNYWkAA4o6K.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DzopKNYWkAA4o6K.jpg",
+              "url": "https://t.co/sPfy1a1NJW",
+              "display_url": "pic.twitter.com/sPfy1a1NJW",
+              "expanded_url": "https://twitter.com/NEEDforSEAT/status/1097234721682214912/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1536,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1097234714585370624,
+              "id_str": "1097234714585370624",
+              "indices": [
+                95,
+                118
+              ],
+              "media_url": "http://pbs.twimg.com/media/DzopKNYWkAA4o6K.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DzopKNYWkAA4o6K.jpg",
+              "url": "https://t.co/sPfy1a1NJW",
+              "display_url": "pic.twitter.com/sPfy1a1NJW",
+              "expanded_url": "https://twitter.com/NEEDforSEAT/status/1097234721682214912/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1536,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 27,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1029749954863144960/fBV3YUch_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1029749954863144960/fBV3YUch_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/540668378/1545921596",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "regular"
+    },
+    {
+      "id": 253226800,
+      "id_str": "253226800",
+      "name": "ESEA",
+      "screen_name": "ESEA",
+      "location": "",
+      "description": "Where champions are made. Featuring $1,500,000 leagues for CS:GO & TF2, PUG/scrim mods with anti-cheat, stats logging, custom ranks & an active community.",
+      "url": "https://t.co/9QkiL3KbWO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/9QkiL3KbWO",
+              "expanded_url": "http://www.esea.net/subscribe",
+              "display_url": "esea.net/subscribe",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 207471,
+      "friends_count": 1100,
+      "listed_count": 354,
+      "created_at": "Wed Feb 16 20:29:58 +0000 2011",
+      "favourites_count": 5658,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 13197,
+      "lang": "en",
+      "status": {
+        "created_at": "Mon Feb 18 12:00:00 +0000 2019",
+        "id": 1097465753752621056,
+        "id_str": "1097465753752621056",
+        "text": "Props to #RankG NA Player, scottiyio, for this nice Glock ace during a de_cache pistol round. https://t.co/d2n3ikiJfP",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "RankG",
+              "indices": [
+                9,
+                15
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1097310773100056576,
+              "id_str": "1097310773100056576",
+              "indices": [
+                94,
+                117
+              ],
+              "media_url": "http://pbs.twimg.com/media/DzpvCYvX0AAonvN.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DzpvCYvX0AAonvN.jpg",
+              "url": "https://t.co/d2n3ikiJfP",
+              "display_url": "pic.twitter.com/d2n3ikiJfP",
+              "expanded_url": "https://twitter.com/ESEA/status/1097465753752621056/video/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 640,
+                  "h": 360,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 640,
+                  "h": 360,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 640,
+                  "h": 360,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1097310773100056576,
+              "id_str": "1097310773100056576",
+              "indices": [
+                94,
+                117
+              ],
+              "media_url": "http://pbs.twimg.com/media/DzpvCYvX0AAonvN.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DzpvCYvX0AAonvN.jpg",
+              "url": "https://t.co/d2n3ikiJfP",
+              "display_url": "pic.twitter.com/d2n3ikiJfP",
+              "expanded_url": "https://twitter.com/ESEA/status/1097465753752621056/video/1",
+              "type": "video",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 640,
+                  "h": 360,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 640,
+                  "h": 360,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 640,
+                  "h": 360,
+                  "resize": "fit"
+                }
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  16,
+                  9
+                ],
+                "duration_millis": 31465,
+                "variants": [
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1097310773100056576/vid/640x360/dRCM_FKA5kqfE2id.mp4?tag=9"
+                  },
+                  {
+                    "bitrate": 288000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1097310773100056576/vid/320x180/r150G9h2gFnxF6rZ.mp4?tag=9"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/amplify_video/1097310773100056576/pl/i_Tv2R1j47cgGMrm.m3u8?tag=9"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/amplify_video/1097310773100056576/vid/1280x720/-TfF5btb-IGTzltY.mp4?tag=9"
+                  }
+                ]
+              },
+              "additional_media_info": {
+                "monetizable": false
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 45,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1081609085999566848/3FLQ-0OE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081609085999566848/3FLQ-0OE_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/253226800/1547171339",
+      "profile_link_color": "4A913C",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 86395621,
+      "id_str": "86395621",
+      "name": "NVIDIA GeForce",
+      "screen_name": "NVIDIAGeForce",
+      "location": "Santa Clara, CA",
+      "description": "Join the revolution in gaming realism.   Introducing the GeForce RTX 20 Series. #RTXOn",
+      "url": "https://t.co/SjzHg7NEHP",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/SjzHg7NEHP",
+              "expanded_url": "http://www.nvidia.com",
+              "display_url": "nvidia.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1449410,
+      "friends_count": 1173,
+      "listed_count": 3331,
+      "created_at": "Fri Oct 30 21:01:49 +0000 2009",
+      "favourites_count": 2104,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 11025,
+      "lang": "en",
+      "status": {
+        "created_at": "Sun Feb 17 22:05:15 +0000 2019",
+        "id": 1097255681055326208,
+        "id_str": "1097255681055326208",
+        "text": "RT @Mrs5oooWatts: Live! Trying out @anthemgame on the recommended RTX 2060 card by @NVIDIAGeForce Need to grind super hard and get caught u\u2026",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Mrs5oooWatts",
+              "name": "Ms5000Watts",
+              "id": 570056270,
+              "id_str": "570056270",
+              "indices": [
+                3,
+                16
+              ]
+            },
+            {
+              "screen_name": "anthemgame",
+              "name": "Anthem",
+              "id": 872413457198567425,
+              "id_str": "872413457198567425",
+              "indices": [
+                35,
+                46
+              ]
+            },
+            {
+              "screen_name": "NVIDIAGeForce",
+              "name": "NVIDIA GeForce",
+              "id": 86395621,
+              "id_str": "86395621",
+              "indices": [
+                83,
+                97
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Sun Feb 17 22:03:47 +0000 2019",
+          "id": 1097255311944015872,
+          "id_str": "1097255311944015872",
+          "text": "Live! Trying out @anthemgame on the recommended RTX 2060 card by @NVIDIAGeForce Need to grind super hard and get ca\u2026 https://t.co/0OBOUvP78h",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "anthemgame",
+                "name": "Anthem",
+                "id": 872413457198567425,
+                "id_str": "872413457198567425",
+                "indices": [
+                  17,
+                  28
+                ]
+              },
+              {
+                "screen_name": "NVIDIAGeForce",
+                "name": "NVIDIA GeForce",
+                "id": 86395621,
+                "id_str": "86395621",
+                "indices": [
+                  65,
+                  79
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "https://t.co/0OBOUvP78h",
+                "expanded_url": "https://twitter.com/i/web/status/1097255311944015872",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 13,
+          "favorite_count": 97,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 13,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "030405",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1031605806167257089/nvMPLLq9_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1031605806167257089/nvMPLLq9_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/86395621/1546902191",
+      "profile_link_color": "3B3B3B",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "regular"
+    },
+    {
+      "id": 61559439,
+      "id_str": "61559439",
+      "name": "NVIDIA",
+      "screen_name": "nvidia",
+      "location": "Santa Clara, CA",
+      "description": "The official handle for NVIDIA. Blog: https://t.co/ohDSqeDJ1D Support: https://t.co/DAKuuuZIg5 All NVIDIA Social Media: https://t.co/0MNNrxXnKC #AI",
+      "url": "http://t.co/SjzHg85NVX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/SjzHg85NVX",
+              "expanded_url": "http://www.nvidia.com",
+              "display_url": "nvidia.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/ohDSqeDJ1D",
+              "expanded_url": "http://blogs.nvidia.com",
+              "display_url": "blogs.nvidia.com",
+              "indices": [
+                38,
+                61
+              ]
+            },
+            {
+              "url": "https://t.co/DAKuuuZIg5",
+              "expanded_url": "http://nvda.ws/2ei5pio",
+              "display_url": "nvda.ws/2ei5pio",
+              "indices": [
+                71,
+                94
+              ]
+            },
+            {
+              "url": "https://t.co/0MNNrxXnKC",
+              "expanded_url": "http://nvda.ws/2fVB0Lz",
+              "display_url": "nvda.ws/2fVB0Lz",
+              "indices": [
+                120,
+                143
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1424196,
+      "friends_count": 1680,
+      "listed_count": 5967,
+      "created_at": "Thu Jul 30 18:25:14 +0000 2009",
+      "favourites_count": 3641,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 10916,
+      "lang": "en",
+      "status": {
+        "created_at": "Sat Feb 16 16:45:02 +0000 2019",
+        "id": 1096812709117677568,
+        "id_str": "1096812709117677568",
+        "text": "Two of the most storied #PCgaming franchises are shipping this week with #NVIDIARTX technology, which uses AI and r\u2026 https://t.co/IxQkZJFkXW",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "PCgaming",
+              "indices": [
+                24,
+                33
+              ]
+            },
+            {
+              "text": "NVIDIARTX",
+              "indices": [
+                73,
+                83
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/IxQkZJFkXW",
+              "expanded_url": "https://twitter.com/i/web/status/1096812709117677568",
+              "display_url": "twitter.com/i/web/status/1\u2026",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 75,
+        "favorite_count": 591,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "D5D5D5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/467079983936970752/LUOWehvo_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/467079983936970752/LUOWehvo_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/61559439/1522799488",
+      "profile_link_color": "2276BB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 14861876,
+      "id_str": "14861876",
+      "name": "AMD",
+      "screen_name": "AMD",
+      "location": "Austin, TX",
+      "description": "Official corporate news about the AMD technology enabling today and inspiring tomorrow. Need help? Contact @AMDCare for support.",
+      "url": "http://t.co/DHkNqJGy7X",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/DHkNqJGy7X",
+              "expanded_url": "http://www.AMD.com",
+              "display_url": "AMD.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 705425,
+      "friends_count": 899,
+      "listed_count": 3051,
+      "created_at": "Wed May 21 22:14:12 +0000 2008",
+      "favourites_count": 6123,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 8032,
+      "lang": "en",
+      "status": {
+        "created_at": "Sun Feb 17 20:53:08 +0000 2019",
+        "id": 1097237534386593793,
+        "id_str": "1097237534386593793",
+        "text": "@dochartdc We apologize and we are working with our partners to restock via e-tail, AIB partners and\u2026 https://t.co/xn2tuxoSaa",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "dochartdc",
+              "name": "Dr. Hart  \ud83c\uddfa\ud83c\uddf8",
+              "id": 712976695,
+              "id_str": "712976695",
+              "indices": [
+                0,
+                10
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/xn2tuxoSaa",
+              "expanded_url": "https://twitter.com/i/web/status/1097237534386593793",
+              "display_url": "twitter.com/i/web/status/1\u2026",
+              "indices": [
+                102,
+                125
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://www.spredfast.com/\" rel=\"nofollow\">Spredfast app</a>",
+        "in_reply_to_status_id": 1096798574417977350,
+        "in_reply_to_status_id_str": "1096798574417977350",
+        "in_reply_to_user_id": 712976695,
+        "in_reply_to_user_id_str": "712976695",
+        "in_reply_to_screen_name": "dochartdc",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "0A0909",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/844264219549745152/ubfu0dAD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/844264219549745152/ubfu0dAD_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14861876/1494985713",
+      "profile_link_color": "0037FF",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "E6E1E6",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "regular"
+    },
+    {
+      "id": 23127272,
+      "id_str": "23127272",
+      "name": "Radeon RX",
+      "screen_name": "Radeon",
+      "location": "",
+      "description": "@AMD Radeon graphics cards provide the latest edge in PC gaming.",
+      "url": "https://t.co/u9lbydw88y",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/u9lbydw88y",
+              "expanded_url": "http://gaming.radeon.com",
+              "display_url": "gaming.radeon.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 620278,
+      "friends_count": 2482,
+      "listed_count": 2431,
+      "created_at": "Fri Mar 06 22:16:35 +0000 2009",
+      "favourites_count": 3666,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 12340,
+      "lang": "en",
+      "status": {
+        "created_at": "Mon Feb 18 14:34:59 +0000 2019",
+        "id": 1097504758695370754,
+        "id_str": "1097504758695370754",
+        "text": "@Frkngvnc23 @AMDRyzen @neeeerdroberts Looking good!  Love the #RGB. \ud83d\udc4d",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "RGB",
+              "indices": [
+                62,
+                66
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Frkngvnc23",
+              "name": "Furkan #Yeniden",
+              "id": 989201890578714626,
+              "id_str": "989201890578714626",
+              "indices": [
+                0,
+                11
+              ]
+            },
+            {
+              "screen_name": "AMDRyzen",
+              "name": "AMD Ryzen",
+              "id": 760615043746496512,
+              "id_str": "760615043746496512",
+              "indices": [
+                12,
+                21
+              ]
+            },
+            {
+              "screen_name": "neeeerdroberts",
+              "name": "Riley Rob",
+              "id": 953042583462199296,
+              "id_str": "953042583462199296",
+              "indices": [
+                22,
+                37
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1097394703434203136,
+        "in_reply_to_status_id_str": "1097394703434203136",
+        "in_reply_to_user_id": 989201890578714626,
+        "in_reply_to_user_id_str": "989201890578714626",
+        "in_reply_to_screen_name": "Frkngvnc23",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1095827254842601472/PGEHsy03_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095827254842601472/PGEHsy03_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/23127272/1547231912",
+      "profile_link_color": "DC1E33",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 225125248,
+      "id_str": "225125248",
+      "name": "HyperX",
+      "screen_name": "HyperX",
+      "location": "Fountain Valley, CA",
+      "description": "The official handle of HyperX\u00ae | YT: https://t.co/67FCcGqqOT | FB: https://t.co/jtXtgtMXRX | IG: https://t.co/kBH8bn4RPD  Tech Support available Monday - Friday",
+      "url": "https://t.co/4gDmoSyss1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/4gDmoSyss1",
+              "expanded_url": "http://www.hyperxgaming.com",
+              "display_url": "hyperxgaming.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/67FCcGqqOT",
+              "expanded_url": "http://youtube.com/hyperx",
+              "display_url": "youtube.com/hyperx",
+              "indices": [
+                37,
+                60
+              ]
+            },
+            {
+              "url": "https://t.co/jtXtgtMXRX",
+              "expanded_url": "http://facebook.com/hyperxcommunity",
+              "display_url": "facebook.com/hyperxcommunity",
+              "indices": [
+                67,
+                90
+              ]
+            },
+            {
+              "url": "https://t.co/kBH8bn4RPD",
+              "expanded_url": "http://Instagram.com/hyperx",
+              "display_url": "Instagram.com/hyperx",
+              "indices": [
+                97,
+                120
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 998566,
+      "friends_count": 833,
+      "listed_count": 873,
+      "created_at": "Fri Dec 10 19:13:47 +0000 2010",
+      "favourites_count": 22392,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 30084,
+      "lang": "en",
+      "status": {
+        "created_at": "Mon Feb 18 17:07:13 +0000 2019",
+        "id": 1097543069593792512,
+        "id_str": "1097543069593792512",
+        "text": "@xPsychoBunny @Razer https://t.co/3tcFp1eaY4",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "xPsychoBunny",
+              "name": "Nhat Ha",
+              "id": 1828153525,
+              "id_str": "1828153525",
+              "indices": [
+                0,
+                13
+              ]
+            },
+            {
+              "screen_name": "Razer",
+              "name": "R \u039b Z \u039e R",
+              "id": 15880163,
+              "id_str": "15880163",
+              "indices": [
+                14,
+                20
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 1097543058080460805,
+              "id_str": "1097543058080460805",
+              "indices": [
+                21,
+                44
+              ],
+              "media_url": "http://pbs.twimg.com/tweet_video_thumb/DztBmKaU8AUKl1n.jpg",
+              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DztBmKaU8AUKl1n.jpg",
+              "url": "https://t.co/3tcFp1eaY4",
+              "display_url": "pic.twitter.com/3tcFp1eaY4",
+              "expanded_url": "https://twitter.com/HyperX/status/1097543069593792512/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 266,
+                  "h": 200,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 266,
+                  "h": 200,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 266,
+                  "h": 200,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1097543058080460805,
+              "id_str": "1097543058080460805",
+              "indices": [
+                21,
+                44
+              ],
+              "media_url": "http://pbs.twimg.com/tweet_video_thumb/DztBmKaU8AUKl1n.jpg",
+              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DztBmKaU8AUKl1n.jpg",
+              "url": "https://t.co/3tcFp1eaY4",
+              "display_url": "pic.twitter.com/3tcFp1eaY4",
+              "expanded_url": "https://twitter.com/HyperX/status/1097543069593792512/photo/1",
+              "type": "animated_gif",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 266,
+                  "h": 200,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 266,
+                  "h": 200,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 266,
+                  "h": 200,
+                  "resize": "fit"
+                }
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  133,
+                  100
+                ],
+                "variants": [
+                  {
+                    "bitrate": 0,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/tweet_video/DztBmKaU8AUKl1n.mp4"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1097061566678224896,
+        "in_reply_to_status_id_str": "1097061566678224896",
+        "in_reply_to_user_id": 1828153525,
+        "in_reply_to_user_id_str": "1828153525",
+        "in_reply_to_screen_name": "xPsychoBunny",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "050005",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1086374784424767489/mHkDigZW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1086374784424767489/mHkDigZW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/225125248/1547846890",
+      "profile_link_color": "F00E0E",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 26599573,
+      "id_str": "26599573",
+      "name": "CORSAIR",
+      "screen_name": "CORSAIR",
+      "location": "California, USA",
+      "description": "The leading source for PC components and gaming hardware since '94. Need support? Send a DM to @CorsairSupport or visit: https://t.co/S4ASPtXs6s",
+      "url": "https://t.co/KGJpZKjIz0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/KGJpZKjIz0",
+              "expanded_url": "http://www.corsair.com",
+              "display_url": "corsair.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/S4ASPtXs6s",
+              "expanded_url": "http://corsair.com/support",
+              "display_url": "corsair.com/support",
+              "indices": [
+                121,
+                144
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1026426,
+      "friends_count": 399,
+      "listed_count": 1888,
+      "created_at": "Wed Mar 25 21:41:25 +0000 2009",
+      "favourites_count": 9438,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 12681,
+      "lang": "en",
+      "status": {
+        "created_at": "Sat Feb 16 21:00:52 +0000 2019",
+        "id": 1096877090983469056,
+        "id_str": "1096877090983469056",
+        "text": "Beautiful setup. Beautiful color scheme. \ud83d\udc4c Battlestation goals, anyone?\n\nPhoto by: Alessandro A. https://t.co/FEHHLz8uJL",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1096877082540298240,
+              "id_str": "1096877082540298240",
+              "indices": [
+                97,
+                120
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dzjj5SMU0AAQ6LD.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dzjj5SMU0AAQ6LD.jpg",
+              "url": "https://t.co/FEHHLz8uJL",
+              "display_url": "pic.twitter.com/FEHHLz8uJL",
+              "expanded_url": "https://twitter.com/CORSAIR/status/1096877090983469056/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1536,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1096877082540298240,
+              "id_str": "1096877082540298240",
+              "indices": [
+                97,
+                120
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dzjj5SMU0AAQ6LD.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dzjj5SMU0AAQ6LD.jpg",
+              "url": "https://t.co/FEHHLz8uJL",
+              "display_url": "pic.twitter.com/FEHHLz8uJL",
+              "expanded_url": "https://twitter.com/CORSAIR/status/1096877090983469056/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1536,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://www.socialbakers.com/\" rel=\"nofollow\">Socialbakers</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 134,
+        "favorite_count": 1494,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047166636027871232/nwE4ockb_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047166636027871232/nwE4ockb_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/26599573/1538005313",
+      "profile_link_color": "FAB81E",
+      "profile_sidebar_border_color": "D4D4D4",
+      "profile_sidebar_fill_color": "D4D4D4",
+      "profile_text_color": "363636",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 360196369,
+      "id_str": "360196369",
+      "name": "AMDGaming",
+      "screen_name": "AMDGaming",
+      "location": "Austin, TX",
+      "description": "AMD Gaming: Dedicated to gamers, esports, developers & the gaming industry for the best possible PC gaming experience.",
+      "url": "https://t.co/u1H8k5YYCI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/u1H8k5YYCI",
+              "expanded_url": "http://game.amd.com",
+              "display_url": "game.amd.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 489441,
+      "friends_count": 409,
+      "listed_count": 1044,
+      "created_at": "Mon Aug 22 20:59:47 +0000 2011",
+      "favourites_count": 6315,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 8729,
+      "lang": "en",
+      "status": {
+        "created_at": "Sun Feb 17 18:00:14 +0000 2019",
+        "id": 1097194024170110976,
+        "id_str": "1097194024170110976",
+        "text": "There are only two days left to enter the @OGACounterPIT giveaway! Click here for a chance at not one but TWO\u2026 https://t.co/H6e3RoMG4z",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "OGACounterPIT",
+              "name": "OGA Counter PIT",
+              "id": 3057061132,
+              "id_str": "3057061132",
+              "indices": [
+                42,
+                56
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/H6e3RoMG4z",
+              "expanded_url": "https://twitter.com/i/web/status/1097194024170110976",
+              "display_url": "twitter.com/i/web/status/1\u2026",
+              "indices": [
+                111,
+                134
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://www.spredfast.com/\" rel=\"nofollow\">Spredfast app</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 31,
+        "favorite_count": 122,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/778719448404414464/hf3aezk2_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/778719448404414464/hf3aezk2_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/360196369/1530032204",
+      "profile_link_color": "9D9FA2",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 957978047197728770,
+      "id_str": "957978047197728770",
+      "name": "VodafoneGaming",
+      "screen_name": "VodafoneGaming",
+      "location": "",
+      "description": "Esports, ESL and gaming updates coming from the network for gamers. #PlayFaster",
+      "url": "https://t.co/d7Xh6qXU1f",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/d7Xh6qXU1f",
+              "expanded_url": "http://playfaster.vodafone.com",
+              "display_url": "playfaster.vodafone.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 18429,
+      "friends_count": 273,
+      "listed_count": 13,
+      "created_at": "Mon Jan 29 14:05:39 +0000 2018",
+      "favourites_count": 398,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 417,
+      "lang": "en",
+      "status": {
+        "created_at": "Thu Nov 22 15:20:08 +0000 2018",
+        "id": 1065625989156388864,
+        "id_str": "1065625989156388864",
+        "text": "RT @mousesports: Happy Thanksgiving to all our fans! We are ready for our Thanksgiving Dinner at 17:30 CET hosted by ECS at the #ECS6 Final\u2026",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "ECS6",
+              "indices": [
+                128,
+                133
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "mousesports",
+              "name": "mousesports",
+              "id": 21648994,
+              "id_str": "21648994",
+              "indices": [
+                3,
+                15
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Thu Nov 22 15:00:00 +0000 2018",
+          "id": 1065620922890166272,
+          "id_str": "1065620922890166272",
+          "text": "Happy Thanksgiving to all our fans! We are ready for our Thanksgiving Dinner at 17:30 CET hosted by ECS at the\u2026 https://t.co/AI04BXI4vr",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/AI04BXI4vr",
+                "expanded_url": "https://twitter.com/i/web/status/1065620922890166272",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                  112,
+                  135
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 8,
+          "favorite_count": 279,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/988406919877595138/x854DxGC_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/988406919877595138/x854DxGC_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/957978047197728770/1524675019",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 414334713,
+      "id_str": "414334713",
+      "name": "Intel Gaming",
+      "screen_name": "IntelGaming",
+      "location": "Santa Clara, CA",
+      "description": "Official Intel Gaming Handle |\nNews on Products, Events, Contests & Deals",
+      "url": "http://t.co/yuFqz3IPXp",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/yuFqz3IPXp",
+              "expanded_url": "http://www.intel.com/gaming",
+              "display_url": "intel.com/gaming",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 681953,
+      "friends_count": 567,
+      "listed_count": 1217,
+      "created_at": "Wed Nov 16 22:54:28 +0000 2011",
+      "favourites_count": 2033,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 7460,
+      "lang": "en",
+      "status": {
+        "created_at": "Sun Feb 17 02:14:13 +0000 2019",
+        "id": 1096955950097825792,
+        "id_str": "1096955950097825792",
+        "text": "RT @overwatchleague: What We Talk About When We Talk About \u201cWinnable.\u201d \n\nLearn when and why #OWL2019 pros use the call in this ep of Define\u2026",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "OWL2019",
+              "indices": [
+                92,
+                100
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "overwatchleague",
+              "name": "Overwatch League",
+              "id": 791065461672685569,
+              "id_str": "791065461672685569",
+              "indices": [
+                3,
+                19
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Sat Feb 16 15:01:49 +0000 2019",
+          "id": 1096786732735963136,
+          "id_str": "1096786732735963136",
+          "text": "What We Talk About When We Talk About \u201cWinnable.\u201d \n\nLearn when and why #OWL2019 pros use the call in this ep of Def\u2026 https://t.co/zmuFUzswQl",
+          "truncated": true,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "OWL2019",
+                "indices": [
+                  71,
+                  79
+                ]
+              }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/zmuFUzswQl",
+                "expanded_url": "https://twitter.com/i/web/status/1096786732735963136",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 49,
+          "favorite_count": 513,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 49,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000857186263/xyP_oi80_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000857186263/xyP_oi80_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/414334713/1497446539",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 16905329,
+      "id_str": "16905329",
+      "name": "ESL",
+      "screen_name": "ESL",
+      "location": "All over the world",
+      "description": "Official Twitter account of ESL, the world's largest esports organization. We host esports tournaments all over the globe. https://t.co/lcivIs8bJ6",
+      "url": "https://t.co/YMpooJ75PT",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/YMpooJ75PT",
+              "expanded_url": "http://www.eslgaming.com",
+              "display_url": "eslgaming.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/lcivIs8bJ6",
+              "expanded_url": "http://eslgaming.com/imprint_tea",
+              "display_url": "eslgaming.com/imprint_tea",
+              "indices": [
+                123,
+                146
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 852309,
+      "friends_count": 274,
+      "listed_count": 1631,
+      "created_at": "Wed Oct 22 13:38:49 +0000 2008",
+      "favourites_count": 4224,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 30427,
+      "lang": "en",
+      "status": {
+        "created_at": "Mon Feb 18 17:02:26 +0000 2019",
+        "id": 1097541863148527616,
+        "id_str": "1097541863148527616",
+        "text": "RT @IEM: @StarCraft @ENCE_Serral Also joining us in Katowice will be the awesome team of @MapuTV, @Koka_Starcraft and @indystarcraft to gui\u2026",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "IEM",
+              "name": "Intel\u00aeExtremeMasters",
+              "id": 93659369,
+              "id_str": "93659369",
+              "indices": [
+                3,
+                7
+              ]
+            },
+            {
+              "screen_name": "StarCraft",
+              "name": "StarCraft",
+              "id": 61040299,
+              "id_str": "61040299",
+              "indices": [
+                9,
+                19
+              ]
+            },
+            {
+              "screen_name": "ENCE_Serral",
+              "name": "Joona Sotala",
+              "id": 1111866404,
+              "id_str": "1111866404",
+              "indices": [
+                20,
+                32
+              ]
+            },
+            {
+              "screen_name": "MapuTV",
+              "name": "MapuTV",
+              "id": 4503265829,
+              "id_str": "4503265829",
+              "indices": [
+                89,
+                96
+              ]
+            },
+            {
+              "screen_name": "Koka_Starcraft",
+              "name": "Koka",
+              "id": 2480353609,
+              "id_str": "2480353609",
+              "indices": [
+                98,
+                113
+              ]
+            },
+            {
+              "screen_name": "IndyStarCraft",
+              "name": "Igor 'Indy' Kaczmarek",
+              "id": 340018527,
+              "id_str": "340018527",
+              "indices": [
+                118,
+                132
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Mon Feb 18 17:02:16 +0000 2019",
+          "id": 1097541824556789766,
+          "id_str": "1097541824556789766",
+          "text": "@StarCraft @ENCE_Serral Also joining us in Katowice will be the awesome team of @MapuTV, @Koka_Starcraft and\u2026 https://t.co/YuF878n55o",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "StarCraft",
+                "name": "StarCraft",
+                "id": 61040299,
+                "id_str": "61040299",
+                "indices": [
+                  0,
+                  10
+                ]
+              },
+              {
+                "screen_name": "ENCE_Serral",
+                "name": "Joona Sotala",
+                "id": 1111866404,
+                "id_str": "1111866404",
+                "indices": [
+                  11,
+                  23
+                ]
+              },
+              {
+                "screen_name": "MapuTV",
+                "name": "MapuTV",
+                "id": 4503265829,
+                "id_str": "4503265829",
+                "indices": [
+                  80,
+                  87
+                ]
+              },
+              {
+                "screen_name": "Koka_Starcraft",
+                "name": "Koka",
+                "id": 2480353609,
+                "id_str": "2480353609",
+                "indices": [
+                  89,
+                  104
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "https://t.co/YuF878n55o",
+                "expanded_url": "https://twitter.com/i/web/status/1097541824556789766",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                  110,
+                  133
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+          "in_reply_to_status_id": 1097541252235456513,
+          "in_reply_to_status_id_str": "1097541252235456513",
+          "in_reply_to_user_id": 93659369,
+          "in_reply_to_user_id_str": "93659369",
+          "in_reply_to_screen_name": "IEM",
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 5,
+          "favorite_count": 24,
+          "favorited": false,
+          "retweeted": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "041A39",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1096051467943845893/ntWFecC7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096051467943845893/ntWFecC7_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16905329/1550236983",
+      "profile_link_color": "3CB3E6",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 34002876,
+      "id_str": "34002876",
+      "name": "ESL Counter-Strike",
+      "screen_name": "ESLCS",
+      "location": "Worldwide",
+      "description": "Home of all CS titles on @ESL - the world's largest esports company! https://t.co/lcivIs8bJ6",
+      "url": "https://t.co/igodGGRpHL",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/igodGGRpHL",
+              "expanded_url": "http://play.eslgaming.com/counterstrike/csgo/",
+              "display_url": "play.eslgaming.com/counterstrike/\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/lcivIs8bJ6",
+              "expanded_url": "http://eslgaming.com/imprint_tea",
+              "display_url": "eslgaming.com/imprint_tea",
+              "indices": [
+                69,
+                92
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 986426,
+      "friends_count": 380,
+      "listed_count": 1032,
+      "created_at": "Tue Apr 21 19:06:35 +0000 2009",
+      "favourites_count": 1486,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 31112,
+      "lang": "en",
+      "status": {
+        "created_at": "Mon Feb 18 16:02:32 +0000 2019",
+        "id": 1097526790308937728,
+        "id_str": "1097526790308937728",
+        "text": "RT @IEM: After an emotional 2018, @BIGCLANgg are looking to turn their emotional exploits into silverware at the Major. How will they fare\u2026",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "IEM",
+              "name": "Intel\u00aeExtremeMasters",
+              "id": 93659369,
+              "id_str": "93659369",
+              "indices": [
+                3,
+                7
+              ]
+            },
+            {
+              "screen_name": "BIGCLANgg",
+              "name": "BIG",
+              "id": 815180156478324736,
+              "id_str": "815180156478324736",
+              "indices": [
+                34,
+                44
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Mon Feb 18 16:00:00 +0000 2019",
+          "id": 1097526154511204353,
+          "id_str": "1097526154511204353",
+          "text": "After an emotional 2018, @BIGCLANgg are looking to turn their emotional exploits into silverware at the Major. How\u2026 https://t.co/eZBxfKynl0",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "BIGCLANgg",
+                "name": "BIG",
+                "id": 815180156478324736,
+                "id_str": "815180156478324736",
+                "indices": [
+                  25,
+                  35
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "https://t.co/eZBxfKynl0",
+                "expanded_url": "https://twitter.com/i/web/status/1097526154511204353",
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 6,
+          "favorite_count": 80,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EBEBEB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1096050481787473921/YXHjOWuM_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096050481787473921/YXHjOWuM_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/34002876/1550154897",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F3F3F3",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "regular"
+    },
+    {
+      "id": 93659369,
+      "id_str": "93659369",
+      "name": "Intel\u00aeExtremeMasters",
+      "screen_name": "IEM",
+      "location": "Worldwide",
+      "description": "Intel\u00ae Extreme Masters is the elite global pro gaming tour organized by ESL. The tour has been sponsored by Intel since 2006.",
+      "url": "https://t.co/gEiCiJw5jd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/gEiCiJw5jd",
+              "expanded_url": "http://www.intelextrememasters.com",
+              "display_url": "intelextrememasters.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 392924,
+      "friends_count": 190,
+      "listed_count": 947,
+      "created_at": "Mon Nov 30 16:10:07 +0000 2009",
+      "favourites_count": 514,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 18662,
+      "lang": "en",
+      "status": {
+        "created_at": "Mon Feb 18 17:02:16 +0000 2019",
+        "id": 1097541824556789766,
+        "id_str": "1097541824556789766",
+        "text": "@StarCraft @ENCE_Serral Also joining us in Katowice will be the awesome team of @MapuTV, @Koka_Starcraft and\u2026 https://t.co/YuF878n55o",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "StarCraft",
+              "name": "StarCraft",
+              "id": 61040299,
+              "id_str": "61040299",
+              "indices": [
+                0,
+                10
+              ]
+            },
+            {
+              "screen_name": "ENCE_Serral",
+              "name": "Joona Sotala",
+              "id": 1111866404,
+              "id_str": "1111866404",
+              "indices": [
+                11,
+                23
+              ]
+            },
+            {
+              "screen_name": "MapuTV",
+              "name": "MapuTV",
+              "id": 4503265829,
+              "id_str": "4503265829",
+              "indices": [
+                80,
+                87
+              ]
+            },
+            {
+              "screen_name": "Koka_Starcraft",
+              "name": "Koka",
+              "id": 2480353609,
+              "id_str": "2480353609",
+              "indices": [
+                89,
+                104
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/YuF878n55o",
+              "expanded_url": "https://twitter.com/i/web/status/1097541824556789766",
+              "display_url": "twitter.com/i/web/status/1\u2026",
+              "indices": [
+                110,
+                133
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": 1097541252235456513,
+        "in_reply_to_status_id_str": "1097541252235456513",
+        "in_reply_to_user_id": 93659369,
+        "in_reply_to_user_id_str": "93659369",
+        "in_reply_to_screen_name": "IEM",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 24,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1095587882721513472/wsHa6JHu_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095587882721513472/wsHa6JHu_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/93659369/1550043481",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    }
+  ],
+  "next_cursor": 0,
+  "next_cursor_str": "0",
+  "previous_cursor": 0,
+  "previous_cursor_str": "0",
+  "total_count": null
+}
