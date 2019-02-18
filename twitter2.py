@@ -14,11 +14,11 @@ ctx.check_hostname = False
 ctx.verify_mode = ssl.CERT_NONE
 
 def create_json_file(acct):
-    print('')
+    #print('')
     #if (len(acct) < 1): break
     url = twurl.augment(TWITTER_URL,
-                        {'screen_name': acct, 'count': '20'})
-    print('Retrieving', url)
+                        {'screen_name': acct, 'count': '120'})
+    #print('Retrieving', url)
     connection = urllib.request.urlopen(url, context=ctx)
     data = connection.read().decode()
 
@@ -27,13 +27,13 @@ def create_json_file(acct):
     f.write(json.dumps(js, indent=2))
     f.close()
     headers = dict(connection.getheaders())
-    print('Remaining', headers['x-rate-limit-remaining'])
+    #print('Remaining', headers['x-rate-limit-remaining'])
    # ff = json.load(f)
-    for u in js['users']:
-        #f = json.dumps(u['screen_name'])
-        print(u['screen_name'])
-        if 'status' not in u:
-            print('   * No status found')
-            continue
-        s = u['status']['text']
-        print('  ', s[:50])
+    #for u in js['users']:
+    #    #f = json.dumps(u['screen_name'])
+    #    print(u['screen_name'])
+    #    if 'status' not in u:
+    #        print('   * No status found')
+    #        continue
+    #    s = u['status']['text']
+    #    print('  ', s[:50])
